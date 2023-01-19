@@ -1,0 +1,27 @@
+
+
+
+
+/* div {
+    text-align: center;
+} */
+
+.card {
+    
+    height: 290px;
+    width: 600px;
+    background-color:powderblue;
+    border-color: black;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.2);
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+form {
+    text-align: center;
+   
+}
+
